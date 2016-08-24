@@ -1,0 +1,18 @@
+Timesheet:
+
+
+Week 1 (Week of TP 1):
+	Monday: None
+	Tuesday: None
+	Wednsday: 4
+	Thursday: 3
+	Sunday: 3
+	
+	Total: 10 
+Week2 (Week of TP20:
+	Monday: 3
+	Tuesday: 2
+	Wednesday: 2
+	Total: 7
+
+
